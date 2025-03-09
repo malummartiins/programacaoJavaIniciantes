@@ -40,6 +40,8 @@ Input: [4,6,2,1,9,63,-134,566]
 Output: max = 566, min = -134
 ```
 
+(Novos desafios serão adicionados conforme a série avança!) 🎥✨
+
 ## 🔧 Como Usar
 
 1. Clone este repositório:
